@@ -1,0 +1,4 @@
+to predict :
+prices of alloy steel , plastics and flat steels 
+factors to be considered :
+inflation , exchange rates , etc 
